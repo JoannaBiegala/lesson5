@@ -1,0 +1,1 @@
+To jest pierwszy mój projekt w lekcji 5
